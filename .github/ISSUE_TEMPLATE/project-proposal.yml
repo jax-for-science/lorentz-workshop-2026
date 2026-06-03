@@ -1,0 +1,24 @@
+name: Project proposal
+description: Propose a hackday or community project.
+title: "[Project]: "
+labels: ["project"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Briefly describe the project idea.
+    validations:
+      required: true
+  - type: textarea
+    id: goals
+    attributes:
+      label: Goals
+      description: What should this project achieve?
+    validations:
+      required: true
+  - type: textarea
+    id: needs
+    attributes:
+      label: Support needed
+      description: List skills, datasets, compute, or collaborators that would help.

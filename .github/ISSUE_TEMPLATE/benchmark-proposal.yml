@@ -1,0 +1,22 @@
+name: Benchmark proposal
+description: Propose a scientific JAX benchmark problem.
+title: "[Benchmark]: "
+labels: ["benchmark"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Describe the benchmark problem.
+    validations:
+      required: true
+  - type: textarea
+    id: metrics
+    attributes:
+      label: Metrics
+      description: What should be measured?
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Link relevant papers, code, or datasets.

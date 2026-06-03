@@ -1,0 +1,22 @@
+name: Tutorial proposal
+description: Propose a tutorial for scientific JAX.
+title: "[Tutorial]: "
+labels: ["tutorial"]
+body:
+  - type: textarea
+    id: topic
+    attributes:
+      label: Topic
+      description: What should the tutorial cover?
+    validations:
+      required: true
+  - type: textarea
+    id: audience
+    attributes:
+      label: Audience
+      description: Who is the tutorial for?
+  - type: textarea
+    id: outcomes
+    attributes:
+      label: Learning outcomes
+      description: What should participants be able to do afterwards?
