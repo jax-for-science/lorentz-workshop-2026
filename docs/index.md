@@ -74,5 +74,4 @@ in scientific research.
 
 ## Organisers
 
-Christoph Weniger, Tobias Buck, Cara Giovanetti, Philip Mocz, and Johanna
-Haffner.
+Cara Giovanetti, Johanna Haffner, Christoph Weniger, Philip Mocz, and Tobias Buck.
