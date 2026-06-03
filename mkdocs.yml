@@ -1,5 +1,5 @@
-site_name: Differentiable Programming: JAX for Science
-site_description: A Lorentz Center workshop on differentiable programming, simulation, inference, and scientific computing with JAX.
+site_name: "Differentiable Programming: JAX for Science"
+site_description: "A Lorentz Center workshop on differentiable programming, simulation, inference, and scientific computing with JAX."
 repo_url: https://github.com/jax-for-science/lorentz-workshop-2026
 theme:
   name: material
