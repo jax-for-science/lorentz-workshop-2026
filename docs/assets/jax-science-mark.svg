@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="JAX for Science mark">
+  <rect width="64" height="64" rx="14" fill="#0b1020"/>
+  <path d="M14 43 27 19h7L21 43z" fill="#12b5cb"/>
+  <path d="M30 43 43 19h7L37 43z" fill="#f9ab00"/>
+  <path d="M26 43h10l-5-9z" fill="#34a853"/>
+  <circle cx="48" cy="42" r="4" fill="#e94335"/>
+</svg>

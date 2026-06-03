@@ -1,8 +1,28 @@
 site_name: "Differentiable Programming: JAX for Science"
 site_description: "A Lorentz Center workshop on differentiable programming, simulation, inference, and scientific computing with JAX."
 repo_url: https://github.com/jax-for-science/lorentz-workshop-2026
+repo_name: jax-for-science/lorentz-workshop-2026
 theme:
   name: material
+  language: en
+  logo: assets/jax-science-mark.svg
+  favicon: assets/jax-science-mark.svg
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: blue
+      accent: teal
+  font:
+    text: Inter
+    code: JetBrains Mono
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Home: index.md
   - Schedule: schedule.md
@@ -13,5 +33,8 @@ nav:
   - Organisers: organizers.md
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
   - toc:
       permalink: true
