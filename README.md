@@ -1,6 +1,7 @@
 # Lorentz Workshop 2026
 
 A Lorentz Center workshop on differentiable programming, simulation, inference, and scientific computing with JAX.
+February 15 to 19 2027 in Leiden.
 
 This repository contains the workshop website source, logistics, agenda, participant guide, hackday planning material, and community information.
 
@@ -13,4 +14,4 @@ This repository contains the workshop website source, logistics, agenda, partici
 - Code of conduct
 - Organiser information
 
-Organisers: Christoph Weniger, Tobias Buck, Cara Giovanetti, Philip Mocz, and Johanna Haffner.
+Organisers: Cara Giovanetti, Johanna Haffner, Christoph Weniger, Philip Mocz, and Tobias Buck.
